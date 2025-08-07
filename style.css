@@ -375,7 +375,7 @@ b, strong {
     background-image: url('./img/DSC_9996.JPG');
     background-size: cover;
     background-position-y: center;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-repeat: no-repeat;
 }
 
