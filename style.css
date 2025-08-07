@@ -228,8 +228,9 @@ a:hover{
     background-image: url('./img/pic1.png');
     height: 70vh;
     width: 30vw;
+    background-size: contain;
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
 }
 .timings{
     margin: 30px;
